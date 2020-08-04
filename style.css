@@ -1,0 +1,14 @@
+.h1{
+    font-size: 20px;
+    width: 250px;
+}
+
+@media screen and (max-width:900px){
+    .bouton{
+        padding-top: 10px !important;
+    }
+    .mwidth{
+        width: 420px !important;
+    }
+    
+}
